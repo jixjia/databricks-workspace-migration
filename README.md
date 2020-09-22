@@ -12,7 +12,7 @@ Add your source workspace credentials and destination workspace credentials, inc
 1. **Local Path** path for your artifacts on local drive   
 
 ### upload.py     
-Upload artifacts to destination workspace from your local drive   
+Upload artifacts to destination workspace from your local drive: `python upload.py`
 
 ### download.py 
-Download artifacts from source workspace to your local drive   
+Download artifacts from source workspace to your local drive: `python download.py`
